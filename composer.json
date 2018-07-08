@@ -2,6 +2,7 @@
     "name": "pdynarowski/yii2",
     "description": "Support Yii2 apps. Abstract classes and some helpers.",
     "type": "library",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "pawel",
