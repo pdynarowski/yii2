@@ -1,0 +1,13 @@
+{
+    "name": "pdynarowski/yii2",
+    "description": "Support Yii2 apps. Abstract classes and some helpers.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "pawel",
+            "email": "pdynarowski@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
