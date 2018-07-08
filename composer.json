@@ -10,5 +10,7 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "require": {
+        "yiisoft/yii2": "2.0.15.1"
+    }
 }
